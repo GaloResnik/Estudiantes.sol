@@ -1,6 +1,9 @@
 # Estudiantes.sol
 Estudiantes.sol: 0x88f5eD95Eb501D46cDA827605b2D692baCB4B3da
+
+
 Galo R. y Francisco S.
+
 > Opcional: 
 > a. ¿Cómo modificarías el Smart Contract para que acepte notas de 4 bimestres? 
 
@@ -23,3 +26,4 @@ Para que el docente pueda darle permiso a otros docentes hay que hacer:
 
 
 > d. Implementar las consignas a, b y/o c en otro archivo EstudianteAlt.sol
+EstudiantesAlt.sol: 0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
